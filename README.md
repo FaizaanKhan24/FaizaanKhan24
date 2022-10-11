@@ -3,7 +3,7 @@
 - 🌱 I’m currently a student at Binghamton University, pursuing my Masters in Computer Science.
 - I’m looking to collaborate on interesting web development projects using React or Android level applications and projects. 
 - 📫 How to reach me: faizaankhan24@gmail.com
-- I'm looking for any summer internship opportunities for Summer 2022. 
+- I'm looking for full-time opportunities. 
 
 <!---
 FaizaanKhan24/FaizaanKhan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
