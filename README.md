@@ -10,19 +10,19 @@
 
 ## More
 
-Feel free to take a look at my [resume]()
+Feel free to take a look at my [resume](https://drive.google.com/file/d/131yqEb9kECsl-58T34N-wHxGXI2urQ2N/view?usp=share_link)
 
 ## Let's connect
 
 <div>
-<img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/twitter.png" width="32">
-<img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/linkedin.png" width="32">
-<img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/youtube.png" width="32">
+<a href="https://www.linkedin.com/in/mohammedfaizaankhan/"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/linkedin.png" width="32"> </a>
+<a href="https://www.youtube.com/channel/UC8Fo02A-LjH0RB4nwMLRDaA"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/youtube.png" width="32"> </a>
+<a href="https://twitter.com/faizaankhan24"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/twitter.png" width="32"> </a>
 </div>
 
 <br>
 
-Last Edited: 25 February 2023
+<sub>Last Edited: 25 February 2023</sub>
 
 <!---
 FaizaanKhan24/FaizaanKhan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
