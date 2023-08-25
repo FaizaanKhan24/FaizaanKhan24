@@ -17,7 +17,7 @@ Feel free to take a look at my [resume](https://drive.google.com/file/d/131yqEb9
 <div>
 <a href="https://www.linkedin.com/in/mohammedfaizaankhan/"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/linkedin.png" width="32"> </a>
 <a href="https://www.youtube.com/channel/UC8Fo02A-LjH0RB4nwMLRDaA"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/youtube.png" width="32"> </a>
-<a href="https://twitter.com/faizaankhan24"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/twitter.png" width="32"> </a>
+<!-- <a href="https://twitter.com/faizaankhan24"> <img src="https://github.com/FaizaanKhan24/FaizaanKhan24/blob/main/twitter.png" width="32"> </a> -->
 </div>
 
 <br>
